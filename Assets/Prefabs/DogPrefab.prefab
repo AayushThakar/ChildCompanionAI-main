@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 8754946741894073643}
   - component: {fileID: 2325108832692800641}
   - component: {fileID: -8811702673038249077}
+  - component: {fileID: -8622079552668309754}
   m_Layer: 0
   m_Name: DogPrefab
   m_TagString: Untagged
@@ -221,3 +222,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!111 &-8622079552668309754
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2844035897311756089}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400030, guid: 1fb1233ed00d18841958e2e2b512a985, type: 3}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
