@@ -9,13 +9,20 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6053488708696355422}
+<<<<<<< HEAD
   - component: {fileID: 190954951554511796}
+=======
+  - component: {fileID: 6502353251468410817}
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
   - component: {fileID: 817988934372682349}
   - component: {fileID: 3063702331999459567}
   - component: {fileID: 7807617507004567621}
   - component: {fileID: 3077787227705336133}
+<<<<<<< HEAD
   - component: {fileID: -8931761692137611416}
   - component: {fileID: 7289439954541562660}
+=======
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
   m_Layer: 0
   m_Name: ChildPrefab
   m_TagString: Child
@@ -38,14 +45,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!33 &190954951554511796
+=======
+--- !u!33 &6502353251468410817
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3225278624139725059}
+<<<<<<< HEAD
   m_Mesh: {fileID: 4300000, guid: 1fb1233ed00d18841958e2e2b512a985, type: 3}
+=======
+  m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
 --- !u!23 &817988934372682349
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -66,7 +81,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 2100000, guid: aa6ee2bfa3a03aa47afcbd2a7eb6ae4b, type: 2}
+=======
+  - {fileID: 2100000, guid: 7cddcc15f7afa4ae895f137b4a4ffc33, type: 2}
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -147,6 +166,7 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 0
+<<<<<<< HEAD
   m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
@@ -188,3 +208,9 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+=======
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0

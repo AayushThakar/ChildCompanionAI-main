@@ -14,7 +14,10 @@ GameObject:
   - component: {fileID: 8754946741894073643}
   - component: {fileID: 2325108832692800641}
   - component: {fileID: -8811702673038249077}
+<<<<<<< HEAD
   - component: {fileID: -8622079552668309754}
+=======
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
   m_Layer: 0
   m_Name: DogPrefab
   m_TagString: Untagged
@@ -44,7 +47,11 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2844035897311756089}
+<<<<<<< HEAD
   m_Mesh: {fileID: 4161201889706389872, guid: 1299dfd772c05bf4eb2437d163771001, type: 3}
+=======
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
 --- !u!23 &153902235098483660
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -65,7 +72,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 2100000, guid: 4bc6206bdc7c5144792f63d943f03532, type: 2}
+=======
+  - {fileID: 2100000, guid: 5547562f6872b450f954ace579256296, type: 2}
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -124,7 +135,10 @@ MonoBehaviour:
   offset: {x: -1, y: 0, z: -1}
   barkAudio: {fileID: -8811702673038249077}
   nudgeForce: 2
+<<<<<<< HEAD
   nudgeDuration: 0.2
+=======
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
   strangerAlertText: {fileID: 0}
 --- !u!82 &-8811702673038249077
 AudioSource:
@@ -222,6 +236,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 --- !u!111 &-8622079552668309754
 Animation:
   m_ObjectHideFlags: 0
@@ -237,3 +252,5 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+=======
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0

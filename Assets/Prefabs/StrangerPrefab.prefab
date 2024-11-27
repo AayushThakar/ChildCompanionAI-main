@@ -14,7 +14,10 @@ GameObject:
   - component: {fileID: 6584733044281821859}
   - component: {fileID: 4214361091534962132}
   - component: {fileID: 4697518713477566870}
+<<<<<<< HEAD
   - component: {fileID: 2264838997811512317}
+=======
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
   m_Layer: 0
   m_Name: StrangerPrefab
   m_TagString: Stranger
@@ -44,7 +47,11 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 908305281787920506}
+<<<<<<< HEAD
   m_Mesh: {fileID: 8055425880129337546, guid: c7116b6c825c8b845b17d603ecbe3177, type: 3}
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
 --- !u!23 &4209222618352705734
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -65,7 +72,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 2100000, guid: f3f09757812bc2745806518dd4134006, type: 2}
+=======
+  - {fileID: 2100000, guid: 42774af530df64f28ab70af09d170f64, type: 2}
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -150,6 +161,7 @@ Rigidbody:
   m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
+<<<<<<< HEAD
   m_CollisionDetection: 1
 --- !u!111 &2264838997811512317
 Animation:
@@ -166,3 +178,6 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+=======
+  m_CollisionDetection: 0
+>>>>>>> ca50ab760d42f9a66ee6f73b5c46762a2ee18ce0
